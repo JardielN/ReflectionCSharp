@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ClientApp": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\addins\\Calculator.dll"
+    }
+  }
+}
